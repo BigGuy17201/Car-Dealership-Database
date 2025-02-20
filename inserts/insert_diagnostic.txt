@@ -1,0 +1,17 @@
+1,Alternator breaks or fails,Replace alternator and possible serpentine belt and battery,1,1/
+1,Alternator breaks or fails,Replace alternator and possible serpentine belt and battery,5,1/
+1,Alternator breaks or fails,Replace alternator and possible serpentine belt and battery,15,1/
+2,Automatic transmission breaks or fails,Replace transmission and transmission fluid,2,1/
+2,Automatic transmission breaks or fails,Replace transmission and transmission fluid,16,8/
+3,Manual transmission breaks or fails,Replace transmission and transmission fluid,3,1/
+3,Manual transmission breaks or fails,Replace transmission and transmission fluid,16,8/
+4,Catalytic converter breaks or fails,Replace catalytic converter,4,1/
+5,Car battery breaks or fails,Replace battery,5,1/
+6,Radiator breaks or fails,Replace Radiator and coolant,6,1/
+6,Radiator breaks or fails,Replace Radiator and coolant,17,3/
+7,Brake pad breaks or worn out,Replace brake pads,8,2/
+8,Popped tire,Replace tire,9,1/
+9,Broken or worn wiper blades,Replace wiper blades,10,2/
+10,Broken or worn air filter,Replace air filter,12,2/
+11,Oil change,Oil drain and replacement change oil filter,13,1/
+11,Oil change,Oil drain and replacement change oil filter,14,4

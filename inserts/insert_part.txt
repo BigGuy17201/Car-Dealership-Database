@@ -1,0 +1,17 @@
+1,S12765987A,200,Bosch,Alternator,1/
+2,S98647297H,4750,ZF Friedrichshafen,Automatic Transmission,2/
+3,S18563957I,3000,Aisin Seiki,Manual Transmission,2/
+4,S07892573P,700,MagnaFlow,Catalytic Converter,3/
+5,S17462509V,150,Exide,Car Battery,4/
+6,S83647019M,350,Denso,Radiator,5/
+7,S16402756L,550,Bosch,Fuel Pump,6/
+8,S16384678U,100,Brembo,Brake Pad,/
+9,S89689542Q,150,Michelin,Tire,/
+10,S15463789K,25,Rain-X,Wiper Blades,/
+11,S78467891Y,30,Phillips,Headlight Bulb,/
+12,S45378645J,20,K&N,Air Filter,/
+13,S78945670F,15,Mobil,Oil Filter,/
+14,S12347890V,35,Castrol,Synthetic Oil,/
+15,S18354937T,35,Gates,Serpentine Belt,7/
+16,S91743927F,8,Mobil,Transmission Fluid,/
+17,S81539389U,15,Peak,Coolant,
